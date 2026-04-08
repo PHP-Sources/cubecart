@@ -1,29 +1,31 @@
 # CubeCart
 
-<img src="https://github.com/PHP-Sources/.github/raw/main/logos/cubecart.webp" width="48" height="48" alt="CubeCart"> 
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/cubecart.webp" width="48" height="48" alt="CubeCart">
 
-**CubeCart 6.6.0** – La plus grande mise à jour depuis des années !
+**CubeCart 6.6.0** – La plus grande mise à jour depuis des années, riche en nouvelles fonctionnalités, renforcement de la sécurité et améliorations des performances.
 
-### Nouvelles fonctionnalités & améliorations
+### Points forts
 - Renforcement important de la sécurité
 - Améliorations significatives des performances
 - Nouvelles fonctionnalités riches et modernes
 - Interface utilisateur améliorée
 - Meilleure compatibilité et stabilité
 
-### 📥 Version miroir sur GitHub
+### 📥 Accès rapide aux fichiers
 
-Cette version est une **miroir** du script disponible sur phpsources.net.
+**Explorez rapidement les fichiers via notre explorateur :**
 
-**Pour télécharger la version complète 6.6.0, obtenir le support et toutes les mises à jour :**
+👉 **[📂 Explorer CubeCart 6.6.0](https://phpsources.net/x7g3p2.php?id=2026&name=cubecart-v6-6.6.0-0-g00a8332.zip)**
 
-👉 **[Télécharger CubeCart 6.6.0 sur phpsources.net](https://phpsources.net/script/php/ecommerce/2026-7_cubecart,6.6.0)**
+**Et retrouvez la fiche complète, les mises à jour, le support et le téléchargement sur :** 
+
+👉 **[CubeCart sur phpsources.net](https://phpsources.net/script/php/ecommerce/2026-7_cubecart,6.6.0)**
 
 ### Licence
 Distribué sous licence **MIT**.
 
 ### ⭐ Contribution
-Si cette solution e-commerce vous plaît, n’hésitez pas à mettre une **star** ⭐ et à le **forker** !
+Si cette solution e-commerce vous aide, n’hésitez pas à mettre une **star** ⭐ et à le **forker** !
 
 ---
 
